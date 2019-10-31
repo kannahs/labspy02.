@@ -4,6 +4,8 @@ Pada dasarnya, kondisi If Else If adalah sebuah struktur logika program yang di 
 
 #Di Python ada 3 jenis pernyataan yang digunakan untuk percabangan, yaitu sebagai berikut.
 
+![python](https://user-images.githubusercontent.com/56243857/67922773-59d5b500-fbde-11e9-99a2-47325159d0dc.png)
+
 iftrue/false
 
 yang pertama kita akan membuat contoh bilangan yang memasukin bilangan satu sampai tiga
