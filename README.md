@@ -8,7 +8,7 @@ Pada dasarnya, kondisi If Else If adalah sebuah struktur logika program yang di 
 
 iftrue/false
 
-yang pertama kita akan membuat contoh bilangan yang memasukin bilangan satu sampai tiga
+#yang pertama kita akan membuat contoh bilangan yang memasukin bilangan satu sampai tiga
 Bilangan1 = int(input("Masukkan Bilangan 1:")) Bilangan2 = int(input("Masukkan Bilangan 2:")) Bilangan3 = int(input("Masukkan Bilangan 3:"))
 
 Berikutnya kita juga bisa membuat kondisi if int(Bilangan1) and (Bilangan1 > Bilangan3): seperti dibawah ini :
@@ -22,7 +22,7 @@ else: Terbesar = Bilangan3 NomBil = "Bilangan 3"
 Selanjutnya menggunakan bilangan besar adalah
 print("Bilangan yang terbesar adalah", NomBil, "dengan nilai", Terbesar)
 
-Selanjutnya kita mengetahui setelah RUN yang benar:
+#Selanjutnya kita mengetahui setelah RUN yang benar:
 
 ![pycharm1](https://user-images.githubusercontent.com/56243857/67922581-b2588280-fbdd-11e9-913b-baafb2e5dca4.PNG)
 
