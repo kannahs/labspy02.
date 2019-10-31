@@ -21,7 +21,8 @@ Selanjutnya menggunakan bilangan besar adalah
 print("Bilangan yang terbesar adalah", NomBil, "dengan nilai", Terbesar)
 
 Selanjutnya kita mengetahui setelah RUN yang benar:
-![flowchart1](https://user-images.githubusercontent.com/56243857/67922547-98b73b00-fbdd-11e9-8f94-1479c637fdbc.PNG)
+
+![pycharm1](https://user-images.githubusercontent.com/56243857/67922581-b2588280-fbdd-11e9-913b-baafb2e5dca4.PNG)
 
 Pada Bahasa pemrograman python untuk membuat sebuah kondisi sama halnya dengan Bahasa pemrograman yang lain yaitu sama-sama menggunakan if, pada setiap pemrograman if berisi sebuah ekspresi logika menggunakan sebuah data yang telah dibandingkan seperti alur flowchart dibawah ini.
 
