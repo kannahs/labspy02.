@@ -6,7 +6,6 @@ Pada dasarnya, kondisi If Else If adalah sebuah struktur logika program yang di 
 
 ![python](https://user-images.githubusercontent.com/56243857/67922773-59d5b500-fbde-11e9-99a2-47325159d0dc.png)
 
-iftrue/false
 
 # pertama kita akan membuat contoh bilangan dengan memasukkan bilangan satu sampai tiga
 ![praktikum 2](https://user-images.githubusercontent.com/56243857/68071699-7c6af800-fdaf-11e9-9917-d167ac95239d.PNG)
